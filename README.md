@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Limon
 
-<!--
-**limon-ahmed/limon-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **UI/UX Designer**, crafting intuitive and user-friendly digital experiences for web, mobile, and Dashboards.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 **Currently working at** [Techearty](https://techearty.com)
+- 🧩 **Expert in:** WordPress Plugin UI, Web & Mobile App Design.
+- 💻 **Tech Skills:** HTML, CSS, Sass, Basic JavaScript 
+- 🎨 **Tools I Use:** Figma (daily), Adobe XD, Illustrator
+- 🚀 **Learning More About:** Front-End development & design systems
+- 🤝 **Open to Collaborate on:** UI design, WordPress plugins, UX feedback exchange
+
+📬 **Reach me at:** limonahmed9711@gmail.com *(limonahmed9711@gmail.com)*
