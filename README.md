@@ -10,4 +10,4 @@ I'm a **UI/UX Designer**, crafting intuitive and user-friendly digital experienc
 - 🚀 **Learning More About:** Front-End development & design systems
 - 🤝 **Open to Collaborate on:** UI design, WordPress plugins, UX feedback exchange
 
-📬 **Reach me at:** limonahmed9711@gmail.com *(limonahmed9711@gmail.com)*
+📬 **Reach me at:** limonahmed9711@gmail.com
